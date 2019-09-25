@@ -1,0 +1,5 @@
+003T_3_all_little_vs_rest
+005T_5_all_big_vs_all_little
+007T_7_all_near_vs_rest
+009T_9_all_far_vs_rest
+011T_11_all_near_vs_all_far
